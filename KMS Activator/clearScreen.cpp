@@ -1,6 +1,6 @@
 #include <Windows.h>
 
-void clearScreen() //«Â∆¡ 
+void clearScreen()
 {
     HANDLE hStdOut;
     CONSOLE_SCREEN_BUFFER_INFO bufInfo;
